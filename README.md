@@ -5,7 +5,7 @@
 </a>
 
 - 🔭 I’m currently working as Backend and Middleware in Banking
-- 🌱 I’m currently learning Fullstack Javascript
+- 🌱 I’m currently learning Fullstack Javascript and Spring Boot
 
   🍜 ☕ 🚴‍♂️
 
