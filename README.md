@@ -4,8 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-- 🔭 I’m currently working as Backend and Middleware in Banking
-- 🌱 I’m currently learning Fullstack Javascript and Spring Boot
+- ☕️ ngopi mazseh
 
   🍜 ☕ 🚴‍♂️
 
